@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdonnect",
+        "uuid": 1411120,
+        "checksum": "y0j6n"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
